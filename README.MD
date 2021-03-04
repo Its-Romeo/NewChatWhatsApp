@@ -10,9 +10,10 @@ Install all these Requirments
 
 How To Use:
 1) Goto https://chromedriver.chromium.org/downloads and download webdriver for chrome according to your chrome version.
-2) Copy webdriver to driver folder inside this project.
-3) Copy your xlsx file containing phone numbers to files directory inside this project.
-4) Copy your text file containing you message to files directory inside this project.
+# Please change file paths in line number 12, 13 and 14 according to your own file paths
+OR
+2) Copy your xlsx file containing phone numbers to files directory inside this project.
+3) Copy your text file containing you message to files directory inside this project.
 
 Note: Make sure that the name of column containing numbers is "number" exactly, otherwise it will not work.
 
